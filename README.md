@@ -1,14 +1,16 @@
-# Maria0509a@@ -7,11 +7,11 @@
-    <link
-        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
-        rel="stylesheet">
-    <title>Aluraflix</title>
-    <title>Guiminamflix</title>
-</head>
+# Maria0509a
+@@ -1,13 +1,11 @@
+# AluraFlix
 
-<body>
-    <header>ALURAFLIX</header>
-    <header>GUIMINAMFLIX</header>
+## Descrição
+Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um catálogo de vídeos com HTML e CSS" da Alura Start.
 
-    <section class="chamada">
-        <div class="chamada-texto">
+## Tecnologias utilizadas
+- HTML
+- CSS
+
+### Acessando o código
+## Acessando o código
+Para acessar o código referente às aulas, clique no seletor `main` do repositório e selecione a aula desejada.
+
+## Notas e créditos
